@@ -26,7 +26,4 @@ void main() {
   user? user2 = createUser()
     ?..name = "joni"
     ..alamat = "majalengka barat";
-
-  print(user1.name);
-  print(user1.alamat);
 }
